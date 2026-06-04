@@ -140,7 +140,7 @@ Power On → Welcome message displayed
 
 <img src="demo/3.jpg" width="600" alt="Washing machine prototype"/>
 
-*Full prototype showing the keypad, LCD display, stepper motor, and 7-segment timer.*
+*Graphical User Interface (GUI)*
 
 ---
 

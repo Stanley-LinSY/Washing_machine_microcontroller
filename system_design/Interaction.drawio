@@ -1,0 +1,438 @@
+<mxfile host="app.diagrams.net" modified="2023-07-17T07:34:37.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="VbW4328iOzulA1-oo-F4" version="21.6.2" type="device">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="1863" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zLxAq1nITREboLRElT2V-128" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.654;exitY=0.931;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zLxAq1nITREboLRElT2V-99">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="1000" as="sourcePoint" />
+            <mxPoint x="630" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="zLxAq1nITREboLRElT2V-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-1" value="Keypad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-2" value="Microprocessor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-3" value="&quot;Open hatch&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-4" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="147.5" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-6" value="Select 4 for &quot;open hatch&quot;" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="145" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="1371.3333333333333" as="targetPoint" />
+            <mxPoint x="629.6" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-17" value="LCD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zLxAq1nITREboLRElT2V-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="220" as="sourcePoint" />
+            <mxPoint x="420" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="zLxAq1nITREboLRElT2V-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="230" as="sourcePoint" />
+            <mxPoint x="625" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-21" value="Microprocessor reads the entered key" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="200" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-23" value="Timer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-25" value="Stepper motor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1490" y="1370" as="targetPoint" />
+            <mxPoint x="1489.23" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-27" value="7 Segment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280" y="1370" as="targetPoint" />
+            <mxPoint x="1279.3600000000001" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="250" as="sourcePoint" />
+            <mxPoint x="860" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-31" value="Display &quot;Hatch open&quot; message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="220" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-32" value="&quot;Close hatch&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="230" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-33" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="257.5" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-34" value="Select 6 for &quot;close hatch&quot;" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="255" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zLxAq1nITREboLRElT2V-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="330" as="sourcePoint" />
+            <mxPoint x="420" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="zLxAq1nITREboLRElT2V-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="340" as="sourcePoint" />
+            <mxPoint x="625" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-37" value="Microprocessor reads the entered key" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="310" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="360" as="sourcePoint" />
+            <mxPoint x="860" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-39" value="Display &quot;Hatch close&quot; message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="330" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-57" value="&quot;Start system&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-58" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="367.5" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-59" value="Select * for &quot;start/&lt;br&gt;continue&quot; button" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="362.5" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zLxAq1nITREboLRElT2V-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="440" as="sourcePoint" />
+            <mxPoint x="420" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="zLxAq1nITREboLRElT2V-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="450" as="sourcePoint" />
+            <mxPoint x="625" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-62" value="Microprocessor reads the entered key" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="420" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-63" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="470" as="sourcePoint" />
+            <mxPoint x="860" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-64" value="Display &quot;Start system&quot; message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="440" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-65" value="&quot;Start system&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="531.59" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-66" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-637.5" y="559.09" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-67" value="Select * for &quot;start/&lt;br&gt;continue&quot; button" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-672.5" y="554.09" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zLxAq1nITREboLRElT2V-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-560" y="631.59" as="sourcePoint" />
+            <mxPoint x="-500" y="641.59" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-69" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-495" y="641.59" as="sourcePoint" />
+            <mxPoint x="-295" y="641.59" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-70" value="Microprocessor reads the entered key" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-495" y="611.59" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-71" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-290" y="661.59" as="sourcePoint" />
+            <mxPoint x="-80" y="661.59" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-72" value="Display &quot;Start system&quot; message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="631.59" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-73" value="Select type of material&lt;br&gt;(e.g. wool)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-74" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="477.5" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-75" value="Select 1 for &quot;wool&quot;" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="472.5" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-76" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zLxAq1nITREboLRElT2V-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="550" as="sourcePoint" />
+            <mxPoint x="420" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-77" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="zLxAq1nITREboLRElT2V-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="560" as="sourcePoint" />
+            <mxPoint x="625" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-78" value="Microprocessor reads the entered key" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="530" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-79" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="580" as="sourcePoint" />
+            <mxPoint x="860" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-80" value="Display &quot;Wool&quot; message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="550" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-82" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="285" y="587.5" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-83" value="Select 1 for &quot;light load&quot;" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="582.5" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-84" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zLxAq1nITREboLRElT2V-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="362.5" y="660" as="sourcePoint" />
+            <mxPoint x="422.5" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-86" value="Microprocessor reads the entered key" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="641.59" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-87" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="632.5" y="690" as="sourcePoint" />
+            <mxPoint x="860" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-88" value="Display &quot;Light load&quot; message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="642.5" y="660" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-81" value="Select the weight load&lt;br&gt;(e.g. light weight)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="560" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-89" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="760" as="sourcePoint" />
+            <mxPoint x="1070" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="1370" as="targetPoint" />
+            <mxPoint x="839.4399999999999" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-96" value="set timer to... (30 seconds)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="745" y="730" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-98" value="Set stepper motor to back and forth motion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="790" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070.373998104602" y="770" as="targetPoint" />
+            <mxPoint x="1069.6" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="1380" as="targetPoint" />
+            <mxPoint x="1070" y="1120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-99" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="889.01" y="926.96" width="361.98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-97" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="760" as="sourcePoint" />
+            <mxPoint x="1490" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-101" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zLxAq1nITREboLRElT2V-99">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="1120" as="sourcePoint" />
+            <mxPoint x="630" y="1121.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-102" value="timer interrupt microprocessor (finish cleaning)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="715" y="1100" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-105" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="1120" as="sourcePoint" />
+            <mxPoint x="1490" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-106" value="Set stepper motor off" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1155" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-109" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="760" as="sourcePoint" />
+            <mxPoint x="1280" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-110" value="Display 7 seg according to the timer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="760" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-116" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="670" as="sourcePoint" />
+            <mxPoint x="630" y="670.07" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-121" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="1120" as="sourcePoint" />
+            <mxPoint x="1280" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-122" value="Stops 7 seg" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="1120" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-124" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.33;exitY=1.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zLxAq1nITREboLRElT2V-99">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="880" as="sourcePoint" />
+            <mxPoint x="630" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-125" value="10 seconds passed, alert the microprocessor of next wash cycle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="737.5" y="840" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-126" value="Set stepper motor to slow rotary motion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="900" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-127" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="870" as="sourcePoint" />
+            <mxPoint x="1490" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-129" value="10 seconds passed, alert the microprocessor of next wash cycle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="737.5" y="970" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-130" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="1000" as="sourcePoint" />
+            <mxPoint x="1490" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-131" value="Set stepper motor to fast rotary motion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1030" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-132" value="Buzzer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1700" y="1370" as="targetPoint" />
+            <mxPoint x="1699.23" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-134" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="760" as="sourcePoint" />
+            <mxPoint x="860" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-135" value="Display &quot;Rinse&quot; message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="770" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-137" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="870" as="sourcePoint" />
+            <mxPoint x="860" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-138" value="Display &quot;Wash&quot; message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="880" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-139" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="1000" as="sourcePoint" />
+            <mxPoint x="860" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-140" value="Display &quot;Spin&quot; message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1010" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-141" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="1120" as="sourcePoint" />
+            <mxPoint x="860" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-142" value="Display &quot;Cleaning&lt;br&gt;complete&quot; message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1140" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-143" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="1200" as="sourcePoint" />
+            <mxPoint x="1700" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-144" value="Set buzzer on&lt;br&gt;to signal complete cleaning cycle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="1200" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-152" value="&quot;Open hatch&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-153" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="1147.5" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-154" value="Select 4 for &quot;open hatch&quot;" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1145" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-155" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zLxAq1nITREboLRElT2V-153">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="1220" as="sourcePoint" />
+            <mxPoint x="420" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-156" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="zLxAq1nITREboLRElT2V-157">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="1230" as="sourcePoint" />
+            <mxPoint x="625" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLxAq1nITREboLRElT2V-157" value="Microprocessor reads the entered key" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1200" width="205" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

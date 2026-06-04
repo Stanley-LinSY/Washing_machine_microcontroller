@@ -1,0 +1,141 @@
+<mxfile host="app.diagrams.net" modified="2023-07-17T04:22:04.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QaDRZS7G5z6iqNzR3XOb" version="21.6.2" type="device">
+  <diagram name="Page-1" id="EaszNzGhf2HMOwyiaWL4">
+    <mxGraphModel dx="707" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sZ-TawlOGvhON9fWPhDy-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sZ-TawlOGvhON9fWPhDy-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="160" y="80" width="210" height="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="sZ-TawlOGvhON9fWPhDy-5" value="&amp;lt;&amp;lt;System&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sZ-TawlOGvhON9fWPhDy-6" value="User wants to add new clothes after wash cycle started (Start/Pause/continue)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="50" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DbxKyoU5rHDIBL8Hxp8X-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="DbxKyoU5rHDIBL8Hxp8X-4" target="DbxKyoU5rHDIBL8Hxp8X-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DbxKyoU5rHDIBL8Hxp8X-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="DbxKyoU5rHDIBL8Hxp8X-4" target="DbxKyoU5rHDIBL8Hxp8X-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="DbxKyoU5rHDIBL8Hxp8X-4" target="DbxKyoU5rHDIBL8Hxp8X-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DbxKyoU5rHDIBL8Hxp8X-4" value="Put clothes in" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DbxKyoU5rHDIBL8Hxp8X-6" value="Pressing the&lt;br&gt;open hatch&lt;br&gt;button (4)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DbxKyoU5rHDIBL8Hxp8X-7" value="Pressing the&lt;br&gt;close hatch&lt;br&gt;button (6)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DbxKyoU5rHDIBL8Hxp8X-8" value="Pressing the&lt;br&gt;start/continue&lt;br&gt;button (*)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-3" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="DbxKyoU5rHDIBL8Hxp8X-9" target="yjNuonTTAJRyHfGANr0g-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DbxKyoU5rHDIBL8Hxp8X-9" value="Select type&lt;br&gt;of material&lt;br&gt;(e.g. wool)" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="205" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="DbxKyoU5rHDIBL8Hxp8X-11" target="yjNuonTTAJRyHfGANr0g-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DbxKyoU5rHDIBL8Hxp8X-11" value="Select the&lt;br&gt;weight load&lt;br&gt;(e.g. light weight)" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="205" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-7" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="DbxKyoU5rHDIBL8Hxp8X-12" target="yjNuonTTAJRyHfGANr0g-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DbxKyoU5rHDIBL8Hxp8X-12" value="Cleaning begins" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="205" y="650" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="DbxKyoU5rHDIBL8Hxp8X-13" target="yjNuonTTAJRyHfGANr0g-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DbxKyoU5rHDIBL8Hxp8X-13" value="Checks how long&lt;br&gt;left till cleaning&lt;br&gt;is complete" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="205" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="DbxKyoU5rHDIBL8Hxp8X-14" target="yjNuonTTAJRyHfGANr0g-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="DbxKyoU5rHDIBL8Hxp8X-14" target="yjNuonTTAJRyHfGANr0g-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="DbxKyoU5rHDIBL8Hxp8X-14" target="yjNuonTTAJRyHfGANr0g-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DbxKyoU5rHDIBL8Hxp8X-14" value="Pause the&lt;br&gt;machine to put&lt;br&gt;extra clothes" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="205" y="870" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="DbxKyoU5rHDIBL8Hxp8X-15" target="yjNuonTTAJRyHfGANr0g-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DbxKyoU5rHDIBL8Hxp8X-15" value="Continue&lt;br&gt;cleaning" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="205" y="1200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="DbxKyoU5rHDIBL8Hxp8X-16" target="yjNuonTTAJRyHfGANr0g-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DbxKyoU5rHDIBL8Hxp8X-16" value="Open hatch to&lt;br&gt;take out clothes" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="205" y="1420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-2" value="Pressing the&lt;br&gt;wool&lt;br&gt;button (1)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-4" value="Pressing the&lt;br&gt;light load&lt;br&gt;button (1)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-6" value="Motor spins to&lt;br&gt;move the tub" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="650" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yjNuonTTAJRyHfGANr0g-8" target="yjNuonTTAJRyHfGANr0g-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="800" />
+              <mxPoint x="600" y="1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-8" value="7 segment&lt;br&gt;timer counts&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;down from&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;30 seconds" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-9" value="Pressing the&lt;br&gt;pause button&lt;br&gt;(#)" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="870" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-12" value="Pressing the&lt;br&gt;start/continue&lt;br&gt;button (*)" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-14" value="Pressing the&lt;br&gt;open hatch&lt;br&gt;button (4)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="980" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-17" value="Pressing the&lt;br&gt;close hatch&lt;br&gt;button (6)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1090" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="yjNuonTTAJRyHfGANr0g-19" target="yjNuonTTAJRyHfGANr0g-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-19" value="Cleaning completes" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="205" y="1310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-20" value="7 segment&lt;br&gt;timer reaches&lt;br&gt;0 second" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-24" value="Pressing the&lt;br&gt;open hatch&lt;br&gt;button (4)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-26" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yjNuonTTAJRyHfGANr0g-28" value="&amp;lt;&amp;lt;Extends&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="610" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
